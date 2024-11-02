@@ -3,9 +3,7 @@
 <p>Behavior: Behavior represents what an object can do and is defined by its methods. In the Car example, methods like accelerate(), brake(), or turn() represent the behavior of a Car.</p>
 <p>An object's state can change over time as its behavior (methods) interacts with it, modifying its fields.</p>
 
-
-  <button>click</button>
-
+<a href="https://chatgpt.com">chat gpt</a>
 
 "# java_shishira_sir" 
 "# java_shishira_sir" 
