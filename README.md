@@ -4,6 +4,8 @@
 <p>An object's state can change over time as its behavior (methods) interacts with it, modifying its fields.</p>
 
 <a href="https://chatgpt.com">chat gpt</a>
+<img src="Photo by Max Ravier from Pexels: https://www.pexels.com/photo/areal-photo-of-sea-wave-3331094/" alt="photo">
+  
 
 "# java_shishira_sir" 
 "# java_shishira_sir" 
