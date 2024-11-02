@@ -3,9 +3,8 @@
 <p>Behavior: Behavior represents what an object can do and is defined by its methods. In the Car example, methods like accelerate(), brake(), or turn() represent the behavior of a Car.</p>
 <p>An object's state can change over time as its behavior (methods) interacts with it, modifying its fields.</p>
 
-<table>
-  <tr>
-</table>
+
+  <button>click</button>
 
 
 "# java_shishira_sir" 
