@@ -28,6 +28,7 @@
   <li><code>buy()</code> - Initiates the purchase of the item.</li>
   <li><code>cancel()</code> - Cancels the item order.</li>
 </ul>
-
-</body>
-</html>
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue" alt="version"/>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license"/>
+</p>
