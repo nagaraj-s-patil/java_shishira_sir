@@ -111,8 +111,40 @@
     <li><code>class</code> (Java keyword)</li>
     <li><code>1variable</code> (starts with a number)</li>
 </ul>
-![image](https://github.com/user-attachments/assets/742ad226-b432-4b8f-a9d7-5aca2a787adb)
-<img src="https://i.ytimg.com/vi/GOU2xgQD2ow/maxresdefault.jpg" alt="Profile Image" width="300">
+<hr>
+<h2>📝 Good Practices of Class Naming Convention</h2>
+<ol>
+    <li><b>Use Upper Camel Case</b>: Each word in the class name starts with an uppercase letter.</li>
+    <li><b>Use Singular Nouns</b>: Class names should be singular nouns that represent a single entity.</li>
+    <li><b>Avoid Special Characters</b>: Avoid using special characters like <code>_</code> (underscore) and <code>$</code> (dollar sign) in class names.</li>
+</ol>
+
+<h2>💻 Compiler</h2>
+<p>
+    A <b>compiler</b> is a special software tool used for checking and correcting Java programs.
+</p>
+
+<h3>🔹 Java Compiler</h3>
+<p>
+    <code>javac</code> is the name of the Java compiler.
+</p>
+
+<h3>🔹 Java Compilation Process</h3>
+<p>
+    The compilation in Java is a two-step process:
+</p>
+
+<img src="https://i.ytimg.com/vi/GOU2xgQD2ow/maxresdefault.jpg" alt="Profile Image" width="400">
+<ol>
+    <li><b>Step 1</b>: Check the syntax of the Java program.</li>
+    <li><b>Step 2</b>: If the program is syntactically correct, the compiler generates <b>Bytecode</b>.</li>
+</ol>
+
+<h3>🔹 Compilation Errors</h3>
+<p>
+    If the Java program has syntax errors, the compiler throws a <b>compilation error</b>, and in this case, bytecode is not generated.
+</p>
+
 
 
 
