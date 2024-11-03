@@ -1,33 +1,22 @@
 <h2 title="class notes">Table of Contents</h2>
-<table title="Syllabus">
+<table title="Syllabus" style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td><a href="#object-state-and-behavior">Object State and Behavior</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#object-state-and-behavior">Object State and Behavior</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#class-and-object">Class and Object</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#keywords">Keywords</a></td>
     </tr>
     <tr>
-        <td><a href="#class-and-object">Class and Object</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#identifiers">Identifiers</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#gpocn">Practices of Class Naming Convention</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#javacompilationprocess">Java Compilation Process</a></td>
     </tr>
     <tr>
-        <td><a href="#keywords">Keywords</a></td>
-    </tr>
-    <tr>
-        <td><a href="#identifiers">Identifiers</a></td>
-    </tr>
-    <tr>
-        <td><a href="#gpocn">Practices of Class Naming Convention</a></td>
-    </tr>
-    <tr>
-        <td><a href="#javacompilationprocess">Java Compilation Process</a></td>
-    </tr>
-    <tr>
-        <td><a href="#association">Association</a></td>
-    </tr>
-    <tr>
-        <td><a href="#composition">Composition</a></td>
-    </tr>
-    <tr>
-        <td><a href="#aggregation">Aggregation</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#association">Association</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#composition">Composition</a></td>
+        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#aggregation">Aggregation</a></td>
     </tr>
 </table>
+
 
 <h1 id="object-state-and-behavior" >Object State and Behavior</h1>
 
