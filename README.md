@@ -4,8 +4,8 @@
     <li><a href="#class-and-object">Class and Object</a></li>
     <li><a href="#keywords">Keywords</a></li>
     <li><a href="#identifiers">Identifiers</a></li>
-    <li><a href="#gpocn">od Practices of Class Naming Convention</a></li>
-    <li><a href="javacompilationprocess">Java Compilation Process</a></li>
+    <li><a href="#gpocn">Practices of Class Naming Convention</a></li>
+    <li><a href="#javacompilationprocess">Java Compilation Process</a></li>
        
 </ul>
 
