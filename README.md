@@ -1,26 +1,30 @@
-<h2 title="class notes">Table of Contents</h2>
-<table title="Syllabus" style="width: 100%; border-collapse: collapse;">
-    <tr><li><a href="#what-is-java" aria-label="Jump to What is Java section">What is Java?</a></li>
-  <li><a href="#key-features-of-java" aria-label="Jump to Key Features of Java section">Key Features of Java</a></li></tr>
-    <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#object-state-and-behavior">Object State and Behavior</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#class-and-object">Class and Object</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#keywords">Keywords</a></td>
-    </tr>
-    <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#identifiers">Identifiers</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#gpocn">Practices of Class Naming Convention</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#javacompilationprocess">Java Compilation Process</a></td>
-    </tr>
-    <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#association">Association</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#composition">Composition</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#aggregation">Aggregation</a></td>
-    </tr>
-</table>
-<h2 id="what-is-java">What is Java?</h2>
-<p>Java is an object-oriented programming language similar to C++, but with advanced and simplified features. It is known for its versatility, is free to access, and can run on various platforms, making it ideal for developing robust, scalable, and portable applications.</p>
-
+<h2 title="class notes">Table of Contents</h2><table id="syllabus" title="Syllabus" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">
+ <a href="#what-is-java" aria-label="Jump to What is Java section">1. What is Java?</a>
+ </td>
+ <td style="border: 1px solid #ddd; padding: 8px;">
+<a href="#key-features-of-java" aria-label="Jump to Key Features of Java section">2. Key Features of Java</a> </td>
+</tr>
+ <tr>
+ <td style="border: 1px solid #ddd; padding: 8px;">
+<a href="#object-state-and-behavior">3. Object State and Behavior</a>
+</td> <td style="border: 1px solid #ddd; padding: 8px;">
+ <a href="#class-and-object">4. Class and Object</a></td>
+<td style="border: 1px solid #ddd; padding: 8px;">
+<a href="#keywords">5. Keywords or Reserved Words</a></td></tr>
+<tr> <td style="border: 1px solid #ddd; padding: 8px;">
+ <a href="#identifiers">6. Identifiers</a> </td>
+ <td style="border: 1px solid #ddd; padding: 8px;">
+ <a href="#gpocn">7. Practices of Class Naming Convention</a>  </td>
+<td style="border: 1px solid #ddd; padding: 8px;">
+<a href="#javacompilationprocess">8. Java Compilation Process</a>  </td>
+</tr>
+ <tr>
+ <td style="border: 1px solid #ddd; padding: 8px;"><a href="#association">9. Association (Has-A Relationship)</a>
+</td><td style="border: 1px solid #ddd; padding: 8px;">
+ <a href="#composition">10. Composition</a></td><td style="borde
+<h2 id="what-is-java">What is Java?</h2><p>Java is an object-oriented programming language similar to C++, but with advanced and simplified features. It is known for its versatility, is free to access, and can run on various platforms, making it ideal for developing robust, scalable, and portable applications.</p>
 <ul>
   <li><strong>Developed by:</strong> Sun Microsystems, with contributions from James Gosling and his team in the early 1990s.</li>
   <li><strong>Original Project Name:</strong> Oak</li>
@@ -40,10 +44,9 @@
   <li><strong>Robust</strong>: With strong memory management, Java eliminates many runtime errors through checks at both compile-time and runtime.</li>
 </ul>
 
-<p><strong>Note:</strong> In Java, a "Platform" is a combination of the Operating System (OS) and the Processor.</
+<p><strong>Note:</strong> In Java, a "Platform" is a combination of the Operating System (OS) and the Processor.</p>
 
 <h1 id="object-state-and-behavior" >Object State and Behavior</h1>
-
 <p >In object-oriented programming, an <strong>object</strong> represents a real-world physical entity. Anything or everything that physically exists can be considered an object.</p>
 
 <h2>Object Characteristics</h2>
