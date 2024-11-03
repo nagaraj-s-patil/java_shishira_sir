@@ -112,6 +112,8 @@
     <li><code>1variable</code> (starts with a number)</li>
 </ul>
 ![image](https://github.com/user-attachments/assets/742ad226-b432-4b8f-a9d7-5aca2a787adb)
+<img src="https://i.ytimg.com/vi/GOU2xgQD2ow/maxresdefault.jpg" alt="Profile Image" width="300">
+
 
 
 
