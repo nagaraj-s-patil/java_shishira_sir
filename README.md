@@ -1,18 +1,33 @@
 <h2 title="class notes">Table of Contents</h2>
-<ul title="Syllabus">
-    <li><a href="#object-state-and-behavior">Object State and Behavior</li>
-    <li><a href="#class-and-object">Class and Object</a></li>
-    <li><a href="#keywords">Keywords</a></li>
-    <li><a href="#identifiers">Identifiers</a></li>
-    <li><a href="#gpocn">Practices of Class Naming Convention</a></li>
-    <li><a href="#javacompilationprocess">Java Compilation Process</a></li>
-    <li><a href="#association">Association</a></li>
-    <li><a href="#composition">Composition</a></li>
-    <li><a href="#aggregation">Aggregation</a></li>
-
-
-       
-</ul>
+<table title="Syllabus">
+    <tr>
+        <td><a href="#object-state-and-behavior">Object State and Behavior</a></td>
+    </tr>
+    <tr>
+        <td><a href="#class-and-object">Class and Object</a></td>
+    </tr>
+    <tr>
+        <td><a href="#keywords">Keywords</a></td>
+    </tr>
+    <tr>
+        <td><a href="#identifiers">Identifiers</a></td>
+    </tr>
+    <tr>
+        <td><a href="#gpocn">Practices of Class Naming Convention</a></td>
+    </tr>
+    <tr>
+        <td><a href="#javacompilationprocess">Java Compilation Process</a></td>
+    </tr>
+    <tr>
+        <td><a href="#association">Association</a></td>
+    </tr>
+    <tr>
+        <td><a href="#composition">Composition</a></td>
+    </tr>
+    <tr>
+        <td><a href="#aggregation">Aggregation</a></td>
+    </tr>
+</table>
 
 <h1 id="object-state-and-behavior" >Object State and Behavior</h1>
 
