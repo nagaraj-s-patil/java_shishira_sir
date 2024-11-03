@@ -68,24 +68,39 @@
 </p>
 
 
-<h2>📜 Identifier Rules with Examples</h2>
+<h2>🔖 Identifiers</h2>
+
+<p>
+    An <b>identifier</b> is a name used to identify a Java member such as a class, interface, method, variable, constructor, package, or enum.
+</p>
+
+<h3>🔹 Identifier Rules</h3>
 <ul>
-    <li>Identifiers <b>cannot contain special characters</b> except <code>_</code> (underscore) and <code>$</code> (dollar sign).
-        <ul>
-            <li><b>Example:</b> <code>my_Variable</code> (✅), <code>my$Variable</code> (✅) vs. <code>my-Variable</code> (❌), <code>my@Variable</code> (❌)</li>
-        </ul>
-    </li>
-    
-    <li>Identifiers <b>cannot be Java keywords</b>.
-        <ul>
-            <li><b>Example:</b> <code>int</code> (❌) vs. <code>myInt</code> (✅)</li>
-        </ul>
-    </li>
-    
-    <li>Identifiers can contain numbers but <b>must not start with a number</b>.
-        <ul>
-            <li><b>Example:</b> <code>variable1</code> (✅) vs. <code>1variable</code> (❌)</li>
-        </ul>
-    </li>
+    <li>Identifiers <b>cannot contain spaces</b>.</li>
+    <p><i>Example:</i> <code>myVariable</code> (✅) vs. <code>my Variable</code> (❌)</p>   
+    <li>Identifiers <b>cannot contain special characters</b> except <code>_</code> (underscore) and <code>$</code> (dollar sign).</li>
+    <p><i>Example:</i> <code>my_variable</code> (✅), <code>$myVariable</code> (✅) vs. <code>my-variable</code> (❌)</p>    
+    <li>Identifiers <b>cannot be Java keywords</b>.</li>
+    <p><i>Example:</i> <code>className</code> (✅) vs. <code>class</code> (❌)</p>    
+    <li>Identifiers can include numbers but <b>must not start with a number</b>.</li>
+    <p><i>Example:</i> <code>variable1</code> (✅) vs. <code>1variable</code> (❌)</p>
 </ul>
+
+<h3>🔹 Examples of Valid Identifiers</h3>
+<ul>
+    <li><code>myClass</code></li>
+    <li><code>my_interface</code></li>
+    <li><code>MyMethod1</code></li>
+    <li><code>_constructorExample</code></li>
+    <li><code>$packageName</code></li>
+</ul>
+
+<h3>🔹 Examples of Invalid Identifiers</h3>
+<ul>
+    <li><code>my Variable</code> (contains a space)</li>
+    <li><code>my-variable</code> (contains a hyphen)</li>
+    <li><code>class</code> (Java keyword)</li>
+    <li><code>1variable</code> (starts with a number)</li>
+</ul>
+
 
