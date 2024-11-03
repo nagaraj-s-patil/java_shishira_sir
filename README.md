@@ -47,9 +47,27 @@
  <li><strong>Interpreted:</strong> Java is compiled to bytecodes, which are interpreted by a Java run-time environment.</li>
    <li><strong>Multithreaded:</strong> The Java platform is designed with multithreading capabilities built into the language. That means you can build applications with many concurrent threads of activity, resulting in highly interactive and responsive applications.</li>
    <li><strong>Platform Independent:</strong> Java code is compiled into intermediate format (bytecode), which can be executed on any systems for which Java virtual machine is ported. That means you can write a Java program once and run it on Windows, Mac, Linux or Solaris without re-compiling. Thus the slogan “Write once, run anywhere” of Java.</li>
-    <li><strong>Secure:</strong> The Java platform is designed with security features built into the language and runtime system such as static type-checking at compile time and runtime checking (security manager), which let you create applications that can’t be invaded from outside.</li>
-    
-</ul>
+    <li><strong>Secure:</strong> The Java platform is designed with security features built into the language and runtime system such as static type-checking at compile time and runtime checking (security manager), which let you create applications that can’t be invaded from outside.</li></ul>
+    <h1>Understanding Software and Platforms</h1>
+<p>
+    Software is an automated version of manual work and serves as an automated solution for real-world problems. 
+    Typically, software contains programs, which include both Vi-Components and Storage Components.
+</p>
+
+<h2>Program</h2>
+<p>
+    A program is nothing but a set of instructions for hardware or a platform.
+</p>
+
+<h2>Platform</h2>
+<p>
+    A platform is a combination of a processor and an operating system. Examples include Windows, Linux, Android, etc.
+</p>
+
+<h2>Java</h2>
+<p>
+    Java is platform independent, meaning that applications or programs developed using Java can work on different platforms.
+</p>
 
 <p><strong>Note:</strong> In Java, a "Platform" is a combination of the Operating System (OS) and the Processor.</p>
 
