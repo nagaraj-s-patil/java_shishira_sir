@@ -4,7 +4,9 @@
     <li><a href="#class-and-object">Class and Object</a></li>
     <li><a href="#keywords">Keywords</a></li>
     <li><a href="#identifiers">Identifiers</a></li>
-   
+    <li><a href="#gpocn">od Practices of Class Naming Convention</a></li>
+    <li><a href="javacompilationprocess">Java Compilation Process</a></li>
+       
 </ul>
 
 <h1 id="object-state-and-behavior" >Object State and Behavior</h1>
@@ -112,24 +114,24 @@
     <li><code>1variable</code> (starts with a number)</li>
 </ul>
 <hr>
-<h2>📝 Good Practices of Class Naming Convention</h2>
+<h2 class="gpocn">📝 Good Practices of Class Naming Convention</h2>
 <ol>
     <li><b>Use Upper Camel Case</b>: Each word in the class name starts with an uppercase letter.</li>
     <li><b>Use Singular Nouns</b>: Class names should be singular nouns that represent a single entity.</li>
     <li><b>Avoid Special Characters</b>: Avoid using special characters like <code>_</code> (underscore) and <code>$</code> (dollar sign) in class names.</li>
 </ol>
 
-<h2>💻 Compiler</h2>
+<h2 id="compiler">💻 Compiler</h2>
 <p>
     A <b>compiler</b> is a special software tool used for checking and correcting Java programs.
 </p>
 
-<h3>🔹 Java Compiler</h3>
+<h3 >🔹 Java Compiler</h3>
 <p>
     <code>javac</code> is the name of the Java compiler.
 </p>
 
-<h3>🔹 Java Compilation Process</h3>
+<h3 id="javacompilationprocess">🔹 Java Compilation Process</h3>
 <p>
     The compilation in Java is a two-step process:
 </p>
