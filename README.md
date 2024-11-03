@@ -111,5 +111,7 @@
     <li><code>class</code> (Java keyword)</li>
     <li><code>1variable</code> (starts with a number)</li>
 </ul>
+![image](https://github.com/user-attachments/assets/742ad226-b432-4b8f-a9d7-5aca2a787adb)
+
 
 
