@@ -1,3 +1,10 @@
+<h2>Table of Contents</h2>
+<ul>
+    <li><a href="#class-and-object">Class and Object</a></li>
+    <li><a href="#keywords">Keywords</a></li>
+    <li><a href="#identifiers">Identifiers</a></li>
+</ul>
+
 <h1 title="class notes">Object State and Behavior</h1>
 
 <p>In object-oriented programming, an <strong>object</strong> represents a real-world physical entity. Anything or everything that physically exists can be considered an object.</p>
@@ -30,7 +37,7 @@
 </ul>
 
 <hr>
-<h2>📘 Class and Object</h2>
+<h2 id="class-and-object">📘 Class and Object</h2>
 
 <h3>🔹 Class</h3>
 <ul>
@@ -52,7 +59,7 @@
     The grammar of a programming language is called <b>syntax</b>.
 </p>
 
-<h2>🔑 Keywords (Reserved Words)</h2>
+<h2 id="keywords">🔑 Keywords (Reserved Words)</h2>
 
 <p>
     Keywords are predefined words that are part of the programming language and have specific meanings.
@@ -68,7 +75,7 @@
 </p>
 
 
-<h2>🔖 Identifiers</h2>
+<h2 id="identifiers">🔖 Identifiers</h2>
 
 <p>
     An <b>identifier</b> is a name used to identify a Java member such as a class, interface, method, variable, constructor, package, or enum.
