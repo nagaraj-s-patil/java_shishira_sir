@@ -30,27 +30,24 @@
 </ul>
 
 <hr>
+<h2>📘 Class and Object</h2>
 
-<h2>Class and Object</h2>
+<h3>🔹 Class</h3>
+<ul>
+    <li>A class is a logical entity or blueprint used to create objects.</li>
+    <li>It acts as a descriptor for an object, defining its structure and behavior.</li>
+</ul>
 
-<h3>Class</h3>
-<p>
-    A class is a logical entity or blueprint used to create objects. It is also considered the descriptor for an object.
-</p>
+<h3>🔹 Object</h3>
+<ul>
+    <li>An object cannot exist without a class. Therefore, the class must be created first.</li>
+    <li>Objects are real-world physical entities and instances of a class.</li>
+    <li>Multiple objects can be created from a single class, referred to as <b>similar</b> or <b>identical objects</b>.</li>
+    <li>If one object is destroyed, it doesn't affect other objects or the class.</li>
+    <li>Each object operates independently.</li>
+</ul>
 
-<h3>Object</h3>
+<h3>🔹 Programming Grammar</h3>
 <p>
-    An object cannot be created without a class. Thus, the first step is to create the class, and then only can we create an object.
+    The grammar of a programming language is called <b>syntax</b>.
 </p>
-<p>
-    An object is a real-world physical entity, which is an instance of a class. We can create multiple objects using a single class, which are technically called similar or identical objects. If one object is destroyed or deleted, it will neither affect another object nor the class.
-</p>
-<p>
-    Every object works independently.
-</p>
-
-<h3>Programming Grammar</h3>
-<p>
-    The grammar of a programming language is its syntax.
-</p>
-
