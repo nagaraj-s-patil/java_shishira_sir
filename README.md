@@ -114,7 +114,7 @@
     <li><code>1variable</code> (starts with a number)</li>
 </ul>
 <hr>
-<h2 class="gpocn">📝 Good Practices of Class Naming Convention</h2>
+<h2 id="gpocn">📝 Good Practices of Class Naming Convention</h2>
 <ol>
     <li><b>Use Upper Camel Case</b>: Each word in the class name starts with an uppercase letter.</li>
     <li><b>Use Singular Nouns</b>: Class names should be singular nouns that represent a single entity.</li>
