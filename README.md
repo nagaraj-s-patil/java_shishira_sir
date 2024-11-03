@@ -6,6 +6,11 @@
     <li><a href="#identifiers">Identifiers</a></li>
     <li><a href="#gpocn">Practices of Class Naming Convention</a></li>
     <li><a href="#javacompilationprocess">Java Compilation Process</a></li>
+    <li><a href="#association">Association</a></li>
+    <li><a href="#composition">Composition</a></li>
+    <li><a href="#aggregation">Aggregation</a></li>
+
+
        
 </ul>
 
@@ -146,6 +151,44 @@
 <p>
     If the Java program has syntax errors, the compiler throws a <b>compilation error</b>, and in this case, bytecode is not generated.
 </p>
+
+<h2 id="association">🔗 Association</h2>
+<p>
+    Association is an object-oriented concept where one or multiple objects get associated with another object.
+</p>
+<p>
+    <b>Examples:</b>
+    <ul>
+        <li>An <code>Employee</code> object is associated with a <code>Company</code> object.</li>
+        <li>An <code>Engine</code> object is associated with a <code>Car</code> object.</li>
+    </ul>
+</p>
+<p>
+    Association is also referred to as a <b>relationship</b>. There are two forms of association:
+</p>
+<ol>
+    <li>Composition</li>
+    <li>Aggregation</li>
+</ol>
+
+<h3 id="composition">🔹 Composition</h3>
+<p>
+    Composition is a special form of association where the associated object cannot logically exist independently of the owner object. 
+    If the owner object is destroyed, the associated object is also destroyed.
+</p>
+<p>
+    Composition represents a <b>strong relationship</b> between the objects.
+</p>
+
+<h3 id="aggregation">🔹 Aggregation</h3>
+<p>
+    Aggregation is a special form of association where the associated object can logically exist independently of the owner object.
+    It can continue to exist even without the owner object.
+</p>
+<p>
+    Aggregation represents a <b>weak relationship</b> between the objects.
+</p>
+
 
 
 
