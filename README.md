@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Object State and Behavior</title>
-</head>
-<body>
-
-<h1>Object State and Behavior</h1>
+<h1 title="class notes">Object State and Behavior</h1>
 
 <p>In object-oriented programming, an <strong>object</strong> represents a real-world physical entity. Anything or everything that physically exists can be considered an object.</p>
 
