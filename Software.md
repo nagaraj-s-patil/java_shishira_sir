@@ -7,7 +7,9 @@
 <h2>Program</h2>
 
 ```
-    A program is nothing but a set of instructions for hardware or a platform.
+    A program is nothing but a
+ set of instructions for hardware
+ or a platform.
 ```
 
 <h2>Platform</h2>
