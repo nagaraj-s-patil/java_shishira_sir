@@ -66,3 +66,26 @@
 <p>
     Java is a <b>case-sensitive programming language</b>, meaning it distinguishes between uppercase and lowercase letters.
 </p>
+
+
+<h2>📜 Identifier Rules with Examples</h2>
+<ul>
+    <li>Identifiers <b>cannot contain special characters</b> except <code>_</code> (underscore) and <code>$</code> (dollar sign).
+        <ul>
+            <li><b>Example:</b> <code>my_Variable</code> (✅), <code>my$Variable</code> (✅) vs. <code>my-Variable</code> (❌), <code>my@Variable</code> (❌)</li>
+        </ul>
+    </li>
+    
+    <li>Identifiers <b>cannot be Java keywords</b>.
+        <ul>
+            <li><b>Example:</b> <code>int</code> (❌) vs. <code>myInt</code> (✅)</li>
+        </ul>
+    </li>
+    
+    <li>Identifiers can contain numbers but <b>must not start with a number</b>.
+        <ul>
+            <li><b>Example:</b> <code>variable1</code> (✅) vs. <code>1variable</code> (❌)</li>
+        </ul>
+    </li>
+</ul>
+
