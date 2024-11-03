@@ -51,3 +51,18 @@
 <p>
     The grammar of a programming language is called <b>syntax</b>.
 </p>
+
+<h2>🔑 Keywords (Reserved Words)</h2>
+
+<p>
+    Keywords are predefined words that are part of the programming language and have specific meanings.
+</p>
+<ul>
+    <li>Each keyword has a predefined purpose and function within the language.</li>
+    <li>In Java, there are around <b>53 keywords</b>, all written in lowercase.</li>
+    <li>Examples include: <code>package</code>, <code>import</code>, <code>public</code>, <code>private</code>, <code>protected</code>, <code>class</code>, <code>new</code>, <code>this</code>, <code>super</code>, <code>interface</code>, <code>abstract</code>, <code>static</code>, <code>final</code>, <code>int</code>, <code>long</code>, <code>double</code>, <code>if</code>, <code>else</code>, <code>for</code>, etc.</li>
+</ul>
+
+<p>
+    Java is a <b>case-sensitive programming language</b>, meaning it distinguishes between uppercase and lowercase letters.
+</p>
