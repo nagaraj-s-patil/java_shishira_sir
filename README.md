@@ -1,6 +1,9 @@
 <h2 title="class notes">Table of Contents</h2>
 <table title="Syllabus" style="width: 100%; border-collapse: collapse;">
     <tr>
+        li><a href="#what-is-java" aria-label="Jump to What is Java section">What is Java?</a></li>
+  <li><a href="#key-features-of-java" aria-label="Jump to Key Features of Java section">Key Features of Java</a></li>
+    
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="#object-state-and-behavior">Object State and Behavior</a></td>
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="#class-and-object">Class and Object</a></td>
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="#keywords">Keywords</a></td>
@@ -16,7 +19,29 @@
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="#aggregation">Aggregation</a></td>
     </tr>
 </table>
+<h2 id="what-is-java">What is Java?</h2>
+<p>Java is an object-oriented programming language similar to C++, but with advanced and simplified features. It is known for its versatility, is free to access, and can run on various platforms, making it ideal for developing robust, scalable, and portable applications.</p>
 
+<ul>
+  <li><strong>Developed by:</strong> Sun Microsystems, with contributions from James Gosling and his team in the early 1990s.</li>
+  <li><strong>Original Project Name:</strong> Oak</li>
+  <li><strong>Current Owner:</strong> Oracle Corporation (since 2010)</li>
+  <li><strong>Tagline:</strong> "Write once, run anywhere"</li>
+  <li><strong>Latest Version:</strong> Java 12 (as of March 2019)</li>
+</ul>
+
+<p>Java is widely used alongside technologies like Spring, Node.js, Android, Hadoop, and J2EE to build full-fledged applications. It also supports continuous integration and testing using tools like Selenium.</p>
+
+<h2 id="key-features-of-java">Key Features of Java</h2>
+<ul>
+  <li><strong>Simple</strong>: Java eliminates complexities seen in C++ (like pointers and operator overloading).</li>
+  <li><strong>Portable</strong>: Being platform-independent, Java applications written on one platform can run on any other.</li>
+  <li><strong>Object-Oriented</strong>: Java treats everything as an "object," with states and behaviors, enabling organized, reusable code.</li>
+  <li><strong>Dynamic</strong>: Java adapts to an evolving environment, supporting dynamic memory allocation, which enhances application performance.</li>
+  <li><strong>Robust</strong>: With strong memory management, Java eliminates many runtime errors through checks at both compile-time and runtime.</li>
+</ul>
+
+<p><strong>Note:</strong> In Java, a "Platform" is a combination of the Operating System (OS) and the Processor.</
 
 <h1 id="object-state-and-behavior" >Object State and Behavior</h1>
 
