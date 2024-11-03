@@ -28,7 +28,29 @@
   <li><code>buy()</code> - Initiates the purchase of the item.</li>
   <li><code>cancel()</code> - Cancels the item order.</li>
 </ul>
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-blue" alt="version"/>
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="license"/>
+
+<hr>
+
+<h2>Class and Object</h2>
+
+<h3>Class</h3>
+<p>
+    A class is a logical entity or blueprint used to create objects. It is also considered the descriptor for an object.
 </p>
+
+<h3>Object</h3>
+<p>
+    An object cannot be created without a class. Thus, the first step is to create the class, and then only can we create an object.
+</p>
+<p>
+    An object is a real-world physical entity, which is an instance of a class. We can create multiple objects using a single class, which are technically called similar or identical objects. If one object is destroyed or deleted, it will neither affect another object nor the class.
+</p>
+<p>
+    Every object works independently.
+</p>
+
+<h3>Programming Grammar</h3>
+<p>
+    The grammar of a programming language is its syntax.
+</p>
+
