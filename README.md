@@ -1,8 +1,12 @@
 <div title="class notees">
-<h3 >1. Object State and Behavior</h3> 
-<p> <b>State:</b> The state of an object is represented by its attributes or properties, also known as fields or instance variables. For <b>example, in a Car class, attributes like color, model, and speed define the state of a Car object.</b></p>
-<p><b>Behavior:</b> Behavior represents what an object can do and is defined by its methods. In the Car example, <b>methods like accelerate(), brake(), or turn() represent the behavior of a Car.</b></p>
-<p>An object's state can change over time as its behavior (methods) interacts with it, modifying its fields.</p> 
+<h3>object state and behavior</h3>
+  <p>object:- isa areal world physical entity (any thing or every thing which pythicaly presents consider as a object)</p>
+  <p>object have state and behavior</p>
+  <p>state:- is a object nothing but the property or a information which is describe an object</p>
+  <p>behavior:- is a object is the action or work perform by a object</p>
+  <p>in myntra application  product(shoe) is  an object </p>
+  <p>state:- price,size,discount,color ,costomerRating....etc</p>
+  <p>behavior:-addToBag() addToWishList() buy() cancel()  </p>
 <hr>
 
 </div>
