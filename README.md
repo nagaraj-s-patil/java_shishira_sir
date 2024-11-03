@@ -1,10 +1,9 @@
 <h2 title="class notes">Table of Contents</h2>
 <table title="Syllabus" style="width: 100%; border-collapse: collapse;">
+    <tr><li><a href="#what-is-java" aria-label="Jump to What is Java section">What is Java?</a></li>
+  <li><a href="#key-features-of-java" aria-label="Jump to Key Features of Java section">Key Features of Java</a></li></tr>
     <tr>
-        li><a href="#what-is-java" aria-label="Jump to What is Java section">What is Java?</a></li>
-  <li><a href="#key-features-of-java" aria-label="Jump to Key Features of Java section">Key Features of Java</a></li>
-    
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="#object-state-and-behavior">Object State and Behavior</a></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#object-state-and-behavior">Object State and Behavior</a></td>
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="#class-and-object">Class and Object</a></td>
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="#keywords">Keywords</a></td>
     </tr>
