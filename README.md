@@ -1,13 +1,14 @@
-<h2>Table of Contents</h2>
-<ul>
+<h2 title="class notes">Table of Contents</h2>
+<ul title="Syllabus">
     <li><a href="#class-and-object">Class and Object</a></li>
     <li><a href="#keywords">Keywords</a></li>
     <li><a href="#identifiers">Identifiers</a></li>
+    <li><a href="#iobject-state-and-behavior">Object State and Behavior</li>
 </ul>
 
-<h1 title="class notes">Object State and Behavior</h1>
+<h1 id="object-state-and-behavior" >Object State and Behavior</h1>
 
-<p>In object-oriented programming, an <strong>object</strong> represents a real-world physical entity. Anything or everything that physically exists can be considered an object.</p>
+<p >In object-oriented programming, an <strong>object</strong> represents a real-world physical entity. Anything or everything that physically exists can be considered an object.</p>
 
 <h2>Object Characteristics</h2>
 <ul>
