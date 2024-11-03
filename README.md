@@ -23,7 +23,9 @@
  <tr>
  <td style="border: 1px solid #ddd; padding: 8px;"><a href="#association">9. Association (Has-A Relationship)</a>
 </td><td style="border: 1px solid #ddd; padding: 8px;">
- <a href="#composition">10. Composition</a></td><td style="borde
+ <a href="#composition">10. Composition</a></td>
+ </tr></table>
+  <td style="borde
 <h2 id="what-is-java">What is Java?</h2><p>Java is an object-oriented programming language similar to C++, but with advanced and simplified features. It is known for its versatility, is free to access, and can run on various platforms, making it ideal for developing robust, scalable, and portable applications.</p>
 <ul>
   <li><strong>Developed by:</strong> Sun Microsystems, with contributions from James Gosling and his team in the early 1990s.</li>
