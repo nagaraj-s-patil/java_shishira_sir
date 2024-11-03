@@ -39,15 +39,14 @@
 
 <h2 id="key-features-of-java">Key Features of Java</h2>
 <ul order=i>
-  <li><strong>Simple</strong>: Java eliminates complexities seen in C++ (like pointers and operator overloading).</li>
+ <li><strong>Simple</strong>: Java eliminates complexities seen in C++ (like pointers and operator overloading).</li>
   <li><strong>Portable</strong>: Being platform-independent, Java applications written on one platform can run on any other.</li>
   <li><strong>Object-Oriented</strong>: Java treats everything as an "object," with states and behaviors, enabling organized, reusable code.</li>
   <li><strong>Dynamic</strong>: Java adapts to an evolving environment, supporting dynamic memory allocation, which enhances application performance.</li>
   <li><strong>Robust</strong>: With strong memory management, Java eliminates many runtime errors through checks at both compile-time and runtime.</li>
-
-     <li><strong>Interpreted:</strong> Java is compiled to bytecodes, which are interpreted by a Java run-time environment.</li>
-    <li><strong>Multithreaded:</strong> The Java platform is designed with multithreading capabilities built into the language. That means you can build applications with many concurrent threads of activity, resulting in highly interactive and responsive applications.</li>
-    <li><strong>Platform Independent:</strong> Java code is compiled into intermediate format (bytecode), which can be executed on any systems for which Java virtual machine is ported. That means you can write a Java program once and run it on Windows, Mac, Linux or Solaris without re-compiling. Thus the slogan “Write once, run anywhere” of Java.</li>
+ <li><strong>Interpreted:</strong> Java is compiled to bytecodes, which are interpreted by a Java run-time environment.</li>
+   <li><strong>Multithreaded:</strong> The Java platform is designed with multithreading capabilities built into the language. That means you can build applications with many concurrent threads of activity, resulting in highly interactive and responsive applications.</li>
+   <li><strong>Platform Independent:</strong> Java code is compiled into intermediate format (bytecode), which can be executed on any systems for which Java virtual machine is ported. That means you can write a Java program once and run it on Windows, Mac, Linux or Solaris without re-compiling. Thus the slogan “Write once, run anywhere” of Java.</li>
     <li><strong>Secure:</strong> The Java platform is designed with security features built into the language and runtime system such as static type-checking at compile time and runtime checking (security manager), which let you create applications that can’t be invaded from outside.</li>
     
 </ul>
