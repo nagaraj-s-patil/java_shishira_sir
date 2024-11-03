@@ -1,9 +1,10 @@
 <h2 title="class notes">Table of Contents</h2>
 <ul title="Syllabus">
+    <li><a href="#object-state-and-behavior">Object State and Behavior</li>
     <li><a href="#class-and-object">Class and Object</a></li>
     <li><a href="#keywords">Keywords</a></li>
     <li><a href="#identifiers">Identifiers</a></li>
-    <li><a href="#iobject-state-and-behavior">Object State and Behavior</li>
+   
 </ul>
 
 <h1 id="object-state-and-behavior" >Object State and Behavior</h1>
