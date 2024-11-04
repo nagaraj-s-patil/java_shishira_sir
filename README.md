@@ -1,5 +1,9 @@
 <h2 title="class notes">Table of Contents</h2><table id="syllabus" title="Syllabus" style="width: 100%; border-collapse: collapse;">
+ <a href="doc/INTRODUCTION.md">INTRODUCTION</a>
+ <h1 
+ <a href="#INTRODUCTION">INTRODUCTION</a>>INTRODUCTION</h1>
 <tr>
+ 
 <td style="border: 1px solid #ddd; padding: 8px;">
  <a href="#what-is-java" aria-label="Jump to What is Java section">1. What is Java?</a>
  </td>
