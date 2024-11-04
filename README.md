@@ -1,5 +1,5 @@
 <h2 title="class notes">Table of Contents</h2><table id="syllabus" title="Syllabus" style="width: 100%; border-collapse: collapse;">
- <a href="doc/INTRODUCTION.md">INTRODUCTION</a>
+ <a href="doc/introduction.md">INTRODUCTION</a>
  <h1 
  <a href="#INTRODUCTION">INTRODUCTION</a>>INTRODUCTION</h1>
 <tr>
