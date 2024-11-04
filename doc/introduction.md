@@ -11,11 +11,9 @@
             <li><strong>Tagline:</strong> "Write once, run anywhere"</li>
             <li><strong>Latest Version:</strong> Java 12 (as of March 2019)</li>
         </ul>
-
         <p>Java is widely used alongside technologies like Spring, Node.js, Android, Hadoop, and J2EE to build
             full-fledged applications. It also supports continuous integration and testing using tools like Selenium.
         </p>
-
         <h2 id="key-features-of-java">Key Features of Java</h2>
         <ul order=i>
             <li><strong>Simple</strong>: Java eliminates complexities seen in C++ (like pointers and operator
@@ -46,31 +44,25 @@
             Software is an automated version of manual work and serves as an automated solution for real-world problems.
             Typically, software contains programs, which include both Vi-Components and Storage Components.
         </p>
-
         <h2>Program</h2>
         <p>
             A program is nothing but a set of instructions for hardware or a platform.
         </p>
-
         <h2>Platform</h2>
         <p>
             A platform is a combination of a processor and an operating system. Examples include Windows, Linux,
             Android, etc.
         </p>
-
         <h2>Java</h2>
         <p>
             Java is platform independent, meaning that applications or programs developed using Java can work on
             different platforms.
         </p>
-
         <p><strong>Note:</strong> In Java, a "Platform" is a combination of the Operating System (OS) and the Processor.
         </p>
-
         <h1 id="object-state-and-behavior">Object State and Behavior</h1>
         <p>In object-oriented programming, an <strong>object</strong> represents a real-world physical entity. Anything
             or everything that physically exists can be considered an object.</p>
-
         <h2>Object Characteristics</h2>
         <ul>
             <li><strong>State</strong>: The state of an object refers to its properties or information that describes
@@ -78,11 +70,9 @@
             <li><strong>Behavior</strong>: The behavior of an object is the action or work that the object can perform.
             </li>
         </ul>
-
         <h2>Example: Myntra Application</h2>
         <p>Consider a product (e.g., a shoe) in the Myntra application. This product (shoe) is an object with specific
             states and behaviors.</p>
-
         <h3>State</h3>
         <ul>
             <li>Price</li>
@@ -92,7 +82,6 @@
             <li>Customer Rating</li>
             <li>...and more</li>
         </ul>
-
         <h3>Behavior</h3>
         <ul>
             <li><code>addToBag()</code> - Adds the item to the shopping bag.</li>
@@ -100,16 +89,13 @@
             <li><code>buy()</code> - Initiates the purchase of the item.</li>
             <li><code>cancel()</code> - Cancels the item order.</li>
         </ul>
-
         <hr>
         <h2 id="class-and-object">📘 Class and Object</h2>
-
         <h3>🔹 Class</h3>
         <ul>
             <li>A class is a logical entity or blueprint used to create objects.</li>
             <li>It acts as a descriptor for an object, defining its structure and behavior.</li>
         </ul>
-
         <h3>🔹 Object</h3>
         <ul>
             <li>An object cannot exist without a class. Therefore, the class must be created first.</li>
@@ -119,14 +105,11 @@
             <li>If one object is destroyed, it doesn't affect other objects or the class.</li>
             <li>Each object operates independently.</li>
         </ul>
-
         <h3>🔹 Programming Grammar</h3>
         <p>
             The grammar of a programming language is called <b>syntax</b>.
         </p>
-
         <h2 id="keywords">🔑 Keywords (Reserved Words)</h2>
-
         <p>
             Keywords are predefined words that are part of the programming language and have specific meanings.
         </p>
@@ -138,21 +121,14 @@
                 <code>interface</code>, <code>abstract</code>, <code>static</code>, <code>final</code>,
                 <code>int</code>, <code>long</code>, <code>double</code>, <code>if</code>, <code>else</code>,
                 <code>for</code>, etc.</li>
-        </ul>
-
-        <p>
+        </ul>        <p>
             Java is a <b>case-sensitive programming language</b>, meaning it distinguishes between uppercase and
             lowercase letters.
         </p>
-
-
-        <h2 id="identifiers">🔖 Identifiers</h2>
-
-        <p>
+        <h2 id="identifiers">🔖 Identifiers</h2>        <p>
             An <b>identifier</b> is a name used to identify a Java member such as a class, interface, method, variable,
             constructor, package, or enum.
         </p>
-
         <h3>🔹 Identifier Rules</h3>
         <ul>
             <li>Identifiers <b>cannot contain spaces</b>.</li>
@@ -166,7 +142,6 @@
             <li>Identifiers can include numbers but <b>must not start with a number</b>.</li>
             <p><i>Example:</i> <code>variable1</code> (✅) vs. <code>1variable</code> (❌)</p>
         </ul>
-
         <h3>🔹 Examples of Valid Identifiers</h3>
         <ul>
             <li><code>myClass</code></li>
@@ -175,7 +150,6 @@
             <li><code>_constructorExample</code></li>
             <li><code>$packageName</code></li>
         </ul>
-
         <h3>🔹 Examples of Invalid Identifiers</h3>
         <ul>
             <li><code>my Variable</code> (contains a space)</li>
@@ -191,34 +165,28 @@
             <li><b>Avoid Special Characters</b>: Avoid using special characters like <code>_</code> (underscore) and
                 <code>$</code> (dollar sign) in class names.</li>
         </ol>
-
         <h2 id="compiler">💻 Compiler</h2>
         <p>
             A <b>compiler</b> is a special software tool used for checking and correcting Java programs.
         </p>
-
         <h3>🔹 Java Compiler</h3>
         <p>
             <code>javac</code> is the name of the Java compiler.
         </p>
-
         <h3 id="javacompilationprocess">🔹 Java Compilation Process</h3>
         <p>
             The compilation in Java is a two-step process:
         </p>
-
         <img src="https://i.ytimg.com/vi/GOU2xgQD2ow/maxresdefault.jpg" alt="Profile Image" width="400">
         <ol>
             <li><b>Step 1</b>: Check the syntax of the Java program.</li>
             <li><b>Step 2</b>: If the program is syntactically correct, the compiler generates <b>Bytecode</b>.</li>
         </ol>
-
         <h3>🔹 Compilation Errors</h3>
         <p>
             If the Java program has syntax errors, the compiler throws a <b>compilation error</b>, and in this case,
             bytecode is not generated.
         </p>
-
         <h2 id="association">🔗 Association</h2>
         <p>
             Association is an object-oriented concept where one or multiple objects get associated with another object.
@@ -237,17 +205,14 @@
             <li>Composition</li>
             <li>Aggregation</li>
         </ol>
-
         <h3 id="composition">🔹 Composition</h3>
-        <p>
-            Composition is a special form of association where the associated object cannot logically exist
+        <p>            Composition is a special form of association where the associated object cannot logically exist
             independently of the owner object.
             If the owner object is destroyed, the associated object is also destroyed.
         </p>
         <p>
             Composition represents a <b>strong relationship</b> between the objects.
         </p>
-
         <h3 id="aggregation">🔹 Aggregation</h3>
         <p>
             Aggregation is a special form of association where the associated object can logically exist independently
@@ -257,6 +222,5 @@
         <p>
             Aggregation represents a <b>weak relationship</b> between the objects.
         </p>
-
         ![composition_aggregation_diagram](https://github.com/user-attachments/assets/f5fad034-cc71-41da-b14b-75bf387b5294)
 
