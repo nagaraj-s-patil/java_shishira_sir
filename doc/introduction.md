@@ -1,5 +1,5 @@
  <center><h1 id="INTRODUCTION">INTRODUCTION</h1></center>
-<td style="borde>
+<td style="borde">
         <h2 id=" what-is-java">What is Java?</h2>
         <p>Java is an object-oriented programming language similar to C++, but with advanced and simplified features. It
             is known for its versatility, is free to access, and can run on various platforms, making it ideal for
