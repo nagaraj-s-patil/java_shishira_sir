@@ -1,3 +1,5 @@
+
+background-immage=url(https://th.bing.com/th/id/OIP.rTY438E7T7HMhqMjgBuergHaEK?rs=1&pid=ImgDetMain);
 <h2 title="class notes">Table of Contents</h2><table id="syllabus" title="Syllabus" style="width: 100%; border-collapse: collapse;">
  <a href="doc/introduction.md">INTRODUCTION</a>
  <h1 
