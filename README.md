@@ -1,6 +1,12 @@
 
-background-immage=url(https://th.bing.com/th/id/OIP.rTY438E7T7HMhqMjgBuergHaEK?rs=1&pid=ImgDetMain);
-<h2 title="class notes">Table of Contents</h2><table id="syllabus" title="Syllabus" style="width: 100%; border-collapse: collapse;">
+<div style="background-image: url(![image](https://github.com/user-attachments/assets/edbdcb3d-0dfc-47e1-81c0-f992e8231bbb)
+); padding: 20px;">
+  <!-- Adjust the padding as needed -->
+  
+  # Your Markdown Content
+  
+  Write the content here, and it will appear over the background.
+</div><h2 title="class notes">Table of Contents</h2><table id="syllabus" title="Syllabus" style="width: 100%; border-collapse: collapse;">
  <a href="doc/introduction.md">INTRODUCTION</a>
  <h1 
  <a href="#INTRODUCTION">INTRODUCTION</a>>INTRODUCTION</h1>
