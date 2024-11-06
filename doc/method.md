@@ -1,10 +1,16 @@
-   <h2 id="methods">Methods</h2>
-    <p>A method is a member of a class that represents specific functionality.</p>
-    <p>In Java, a method represents the behavior of an object.</p>
-    <p>A class can have multiple methods in any order.</p>
-    <p>A method never executes on its own; it must be invoked.</p>
-    <p>A method can be invoked multiple times.</p>
-    <pre><code>
+
+## Methods
+
+A method is a member of a class that represents specific functionality.
+
+In Java, a method represents the behavior of an object.
+
+A class can have multiple methods in any order.
+
+A method never executes on its own; it must be invoked.
+
+A method can be invoked multiple times.
+```java
 class Pen {
     void write() {
         System.out.println("pen write");
@@ -18,45 +24,41 @@ class Pen {
         System.out.println("main End");
     }
 }
-    </code></pre>
-    <h3>Output:</h3>
-    <pre><code>
+```
+
+### Output:
+
+```java
 main Start
 pen write
 pen write
 pen write
 main End
-    </code></pre>
+```
 
+### There are 2 Categories of Methods:
 
-<h3>There are 2  Categories of Methods: </h3>
+#### 1. Concrete Method
+#### 2. Abstract Method
 
-<h3 id="Concrete-Method">1. Concrete Method. </h3>
-<h3 id="Abstract-Method">2. Abstract Method. </h3>
-<h3>concreate metod :-</h3>
-	A Concrete Method is a method which has both declaration as well as implementation(diffination)
+### Concrete Method:
 
-<pre><code>
+A Concrete Method is a method which has both declaration as well as implementation (definition).
+
+```java
 void meth()                    ->   Declaration  
- 
 { 
  //body / logic / implementation -> Implementation 
 }
-</code></pre>
+```
 
+### Abstract Method:
 
-<h3>abstract method:-</h3>
+An Abstract Method is a Method which has only Method Declaration, but no method implementation.
 
-   An Abstract Method is a Method which has only Method Declaration , But no method 
-implementation. 
-Abstract Method must be terminated with semicolon. 
-Abstract method must be declared by using keyword called abstract. 
-Abstract method cannot have body.
+- Abstract Method must be terminated with a semicolon.
+- Abstract method must be declared by using the keyword `abstract`.
+- Abstract method cannot have a body.
 
-note:- main is also a method which is atomaticalu executed by jvm
-	we can also a invoke the main method but its not a good practice
-
-<pre><code>
-abstract void meth();  </code></pre>
-                                 
-
+**Note:** The `main` method is also a method which is automatically executed by JVM.  
+We can invoke the `main` method, but it's not a good practice.
