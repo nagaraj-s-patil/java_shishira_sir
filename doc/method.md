@@ -64,24 +64,6 @@ An Abstract Method is a Method which has only Method Declaration, but no method 
 We can invoke the `main` method, but it's not a good practice.
 
 
-## Return Statement:
-A return statement is used to return actual data from a method.  
-We use the return keyword to return the data.
-
-## Return Type:
-It represents the data type of the data returned by a method.  
-
-**void** is a keyword which indicates that the method does not return data.  
-
-## Method Rules:
-
-1) A void method can't return any data.  
-2) A method must have a return type, either void or any other type.  
-3) If a method has a return type, then it must return the data.  
-4) A method can't have multiple return types.  
-5) Logically, a method can't have multiple return statements.  
-6) Returning data and the return type must match.  
-7) Inside a method, if we are returning the data, then the return statement must be the last executable code.  
-
+c
 
 
