@@ -1,17 +1,12 @@
-## Methods
-
-A method is a member of a class that represents specific functionality.
-
-In Java, a method represents the behavior of an object.
-
-A class can have multiple methods in any order.
-
-A method never executes on its own; it must be invoked.
-
-A method can be invoked multiple times.
-
-```javaclass Pen {
-void write() {
+   <h2>Methods</h2>
+    <p>A method is a member of a class that represents specific functionality.</p>
+    <p>In Java, a method represents the behavior of an object.</p>
+    <p>A class can have multiple methods in any order.</p>
+    <p>A method never executes on its own; it must be invoked.</p>
+    <p>A method can be invoked multiple times.</p>
+    <pre><code>
+class Pen {
+    void write() {
         System.out.println("pen write");
     }
     public static void main(String[] args) {
@@ -23,3 +18,12 @@ void write() {
         System.out.println("main End");
     }
 }
+    </code></pre>
+    <h3>Output:</h3>
+    <pre><code>
+main Start
+pen write
+pen write
+pen write
+main End
+    </code></pre>
