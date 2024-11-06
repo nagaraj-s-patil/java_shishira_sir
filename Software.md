@@ -13,6 +13,12 @@
  or a platform.
 ```
 
+<pre><code>
+      A program is nothing but a
+      set of instructions for hardware
+      or a platform.
+      </code></pre>
+
 <h2>Platform</h2>
 <p>
     A platform is a combination of a processor and an operating system. Examples include Windows, Linux, Android, etc.
