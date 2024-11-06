@@ -1,30 +1,34 @@
-<table>
-  <thead>
-    <tr>
-      <th>Section</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="doc/introduction.md#what-is-java">What is Java</a></td>
-      <td>Introduction to Java programming language</td>
-    </tr>
-    <tr>
-      <td><a href="doc/introduction.md#key-features-of-java">Key Features of Java</a></td>
-      <td>Overview of essential features that make Java popular</td>
-    </tr>
-    <tr>
-      <td><a href="doc/introduction.md#object-state-and-behavior">Object State and Behavior</a></td>
-      <td>Understanding the concepts of state and behavior in Java</td>
-    </tr>
-    <tr>
-      <td><a href="doc/introduction.md#class-and-object">Class and Object</a></td>
-      <td>Basics of classes and objects in Java</td>
-    </tr>
-    <tr>
-      <td><a href="doc/introduction.md#keywords.md">Keywords</a></td>
-      <td>A list and explanation of Java keywords</td>
-    </tr>
-  </tbody>
-</table>
+ <h1>Java Documentation Structure</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Section</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Introduction</td>
+                <td><a href="doc/introduction.md" target="_blank">Introduction</a></td>
+            </tr>            <tr>
+                <td class="subheading">What is Java?</td>
+                <td><a href="doc/what-is-java.md" target="_blank">What is Java?</a></td>
+            </tr>
+            <tr>
+                <td class="subheading">Key Features of Java</td>
+                <td><a href="doc/key-features-of-java.md" target="_blank">Key Features of Java</a></td>
+            </tr>
+            <tr>
+                <td class="subheading">Object State and Behavior</td>
+                <td><a href="doc/object-state-and-behavior.md" target="_blank">Object State and Behavior</a></td>
+            </tr>
+            <tr>
+                <td class="subheading">Class and Object</td>
+                <td><a href="doc/class-and-object.md" target="_blank">Class and Object</a></td>
+            </tr>
+            <tr>
+                <td>Keywords</td>
+                <td><a href="doc/keywords.md" target="_blank">Keywords</a></td>
+            </tr>
+        </tbody>
+    </table>
