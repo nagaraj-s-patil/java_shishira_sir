@@ -223,5 +223,4 @@
         <p>
             Aggregation represents a <b>weak relationship</b> between the objects.
         </p>
-        ![composition_aggregation_diagram](https://github.com/user-attachments/assets/f5fad034-cc71-41da-b14b-75bf387b5294)
-
+      ![image](https://github.com/user-attachments/assets/bdf9a67a-4874-475d-909b-4e3d00009f09)
