@@ -27,3 +27,36 @@ pen write
 pen write
 main End
     </code></pre>
+
+
+<h3>There are 2  Categories of Methods: </h3>
+
+<h3>1. Concrete Method. </h3>
+<h3>2. Abstract Method. </h3>
+<h3>concreate metod :-</h3>
+	A Concrete Method is a method which has both declaration as well as implementation(diffination)
+
+<pre><code>
+void meth()                    ->   Declaration  
+ 
+{ 
+ //body / logic / implementation -> Implementation 
+}
+</code></pre>
+
+
+<h3>abstract method:-</h3>
+
+   An Abstract Method is a Method which has only Method Declaration , But no method 
+implementation. 
+Abstract Method must be terminated with semicolon. 
+Abstract method must be declared by using keyword called abstract. 
+Abstract method cannot have body.
+
+note:- main is also a method which is atomaticalu executed by jvm
+	we can also a invoke the main method but its not a good practice
+
+<pre><code>
+abstract void meth();  </code></pre>
+                                 
+
