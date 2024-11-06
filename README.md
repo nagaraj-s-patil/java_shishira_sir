@@ -8,3 +8,4 @@
 | **Object State and Behavior**     | [Object State and Behavior](doc/object-state-and-behavior.md)|
 | **Class and Object**              | [Class and Object](doc/class-and-object.md)                 |
 | Keywords                          | [Keywords](doc/keywords.md)                                 |
+|methods                            | [methods](method.md#Methods))                               |
