@@ -35,7 +35,7 @@ public class Main {
 - This is **early binding**, and the `Animal`'s `sound()` method is called, not the `Dog`'s version.
 
 
-### Inheritance in Java
+## Inheritance in Java
 
 **Inheritance** is one of the fundamental concepts of Object-Oriented Programming (OOP). It allows a new class (called a **subclass** or **child class**) to inherit the properties and behaviors (fields and methods) from an existing class (called a **superclass** or **parent class**). This promotes code reusability and establishes a relationship between the parent and child class.
 
